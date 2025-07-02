@@ -1,0 +1,99 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>Danfe</title>
+</head>
+<body>
+
+<!--- Inicio Menu ---->
+<table width="100%" border="0">
+<tr> <td colspan="2" align="center">
+<img src="logo.jpg"
+alt="logotipo da empresa" width="150>
+</td>
+</tr>
+<tr>
+<td align="left>Danfe</td>
+<td align="right>nf-e nr.
+<b>000.000.000</b><br/>Serie<b>000</b></td>
+</tr>
+<tr>
+<td colspan="2">
+<b>Emitente:</b> MATRIX<br/>
+Rua Avenida das Torres, 12<br/>
+Cuiabá - MT<br/>
+FONE:(65) 99607-8319<br/>
+CNPJ: 18.124.333/0001-30
+</td>
+</tr>
+<tr>
+<td><b>Chave de Acesso:</b> 2414 0551 3364 8800 1013 5050 0012 9449 5553 7351</td>
+<td><b>Data de Emissão:</b>
+14/03/2025</td>
+</tr>
+<tr>
+<td><b>Natureza da Operação:</b>
+Venda</td>
+<td><b>Data de Saida:</b>
+14/03/2025</td>
+</tr>
+</table>
+
+<br/>
+
+<!--Corpo--->
+<table width="100%" border="1"
+cellspacing="0" cellpadding="5">
+<tr>
+<th>Código</th>
+<th>Descrição do Produto/Serviço</th>
+<th>Quantidade</th>
+<th>Valor Unitario</th>
+<th>Valor Total</th>
+</tr>
+<tr>
+<td>001</td>
+<td>Calcinha de Renda Mascúlina</td>
+<td>1</td>
+<td>190,00</td>
+<td>190,00</td>
+</tr>
+</table>
+
+<br/>
+
+<!--- Informações de Destino --->
+<table width="100%" border="0">
+<tr>
+<td colspan="2"><b>Destino:</b></td>
+</tr>
+<tr>
+<td colspan="2">Nome/Razão Social: MATRIX</td>
+</tr>
+<tr>
+<td colspan="2">Endereço: Rua Avenida das Torres, 12, Cuiabá-MT</td>
+</tr>
+</table>
+
+<br/> 
+
+<!--- Rodapé ---->
+ <table width="100%" border="0">
+<tr>
+<td><b>Cálculo do Imposto</b></td>
+<td>Base de Cálculo:240,00</td>
+</tr>
+<tr>
+<td>Valor do ICMS:19,90</td>
+<td>Outras Despesas:0,00</td>
+</tr>
+<tr>
+<td colspan="2" align="center">_________________________<br/>
+Assinatura do Responsável</td>
+</tr>
+</table>
+
+<!--- Fim Menu ---->
+
+</body>
+</html>
